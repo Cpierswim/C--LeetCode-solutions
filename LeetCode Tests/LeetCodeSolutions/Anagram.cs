@@ -1,5 +1,8 @@
-public class Solution {
-    public bool IsAnagram(string s, string t)
+﻿namespace LeetCodeSolutions
+{
+    public class Anagram
+    {
+        public bool IsAnagram(string s, string t)
         {
             var s_dictionary = getDictionaryOfCharOccurances(s);
             var t_dictionary = getDictionaryOfCharOccurances(t);
@@ -43,4 +46,5 @@ public class Solution {
             }
             return charCounts;
         }
+    }
 }
