@@ -11,7 +11,8 @@ namespace LeetCode_Tests
             var result = new Anagram().IsAnagram("anagram", "nagaram");
             result.Should().BeTrue();
         }
-        [Fact] public void Example2()
+        [Fact] 
+        public void Example2()
         {
             var result = new Anagram().IsAnagram("cat", "rat");
             result.Should().BeFalse();

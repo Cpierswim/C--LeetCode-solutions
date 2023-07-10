@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cpier\\Dropbox\\My Files\\Programming Solutions\\LeetCode\\C#\\LeetCode Tests\\LeetCode Tests\\LeetCode Tests.csproj": {}
+    "C:\\Users\\cpier\\Source\\Repos\\Cpierswim\\C--LeetCode-solutions\\LeetCode Tests\\LeetCode Tests\\LeetCode Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cpier\\Dropbox\\My Files\\Programming Solutions\\LeetCode\\C#\\LeetCode Tests\\LeetCode Tests\\LeetCode Tests.csproj": {
+    "C:\\Users\\cpier\\Source\\Repos\\Cpierswim\\C--LeetCode-solutions\\LeetCode Tests\\LeetCode Tests\\LeetCode Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cpier\\Dropbox\\My Files\\Programming Solutions\\LeetCode\\C#\\LeetCode Tests\\LeetCode Tests\\LeetCode Tests.csproj",
+        "projectUniqueName": "C:\\Users\\cpier\\Source\\Repos\\Cpierswim\\C--LeetCode-solutions\\LeetCode Tests\\LeetCode Tests\\LeetCode Tests.csproj",
         "projectName": "LeetCode Tests",
-        "projectPath": "C:\\Users\\cpier\\Dropbox\\My Files\\Programming Solutions\\LeetCode\\C#\\LeetCode Tests\\LeetCode Tests\\LeetCode Tests.csproj",
+        "projectPath": "C:\\Users\\cpier\\Source\\Repos\\Cpierswim\\C--LeetCode-solutions\\LeetCode Tests\\LeetCode Tests\\LeetCode Tests.csproj",
         "packagesPath": "C:\\Users\\cpier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cpier\\Dropbox\\My Files\\Programming Solutions\\LeetCode\\C#\\LeetCode Tests\\LeetCode Tests\\obj\\",
+        "outputPath": "C:\\Users\\cpier\\Source\\Repos\\Cpierswim\\C--LeetCode-solutions\\LeetCode Tests\\LeetCode Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\cpier\\Dropbox\\My Files\\Programming Solutions\\LeetCode\\C#\\LeetCode Tests\\LeetCodeSolutions\\LeetCodeSolutions.csproj": {
-                "projectPath": "C:\\Users\\cpier\\Dropbox\\My Files\\Programming Solutions\\LeetCode\\C#\\LeetCode Tests\\LeetCodeSolutions\\LeetCodeSolutions.csproj"
+              "C:\\Users\\cpier\\Source\\Repos\\Cpierswim\\C--LeetCode-solutions\\LeetCode Tests\\LeetCodeSolutions\\LeetCodeSolutions.csproj": {
+                "projectPath": "C:\\Users\\cpier\\Source\\Repos\\Cpierswim\\C--LeetCode-solutions\\LeetCode Tests\\LeetCodeSolutions\\LeetCodeSolutions.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "C:\\Users\\cpier\\Dropbox\\My Files\\Programming Solutions\\LeetCode\\C#\\LeetCode Tests\\LeetCodeSolutions\\LeetCodeSolutions.csproj": {
+    "C:\\Users\\cpier\\Source\\Repos\\Cpierswim\\C--LeetCode-solutions\\LeetCode Tests\\LeetCodeSolutions\\LeetCodeSolutions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cpier\\Dropbox\\My Files\\Programming Solutions\\LeetCode\\C#\\LeetCode Tests\\LeetCodeSolutions\\LeetCodeSolutions.csproj",
+        "projectUniqueName": "C:\\Users\\cpier\\Source\\Repos\\Cpierswim\\C--LeetCode-solutions\\LeetCode Tests\\LeetCodeSolutions\\LeetCodeSolutions.csproj",
         "projectName": "LeetCodeSolutions",
-        "projectPath": "C:\\Users\\cpier\\Dropbox\\My Files\\Programming Solutions\\LeetCode\\C#\\LeetCode Tests\\LeetCodeSolutions\\LeetCodeSolutions.csproj",
+        "projectPath": "C:\\Users\\cpier\\Source\\Repos\\Cpierswim\\C--LeetCode-solutions\\LeetCode Tests\\LeetCodeSolutions\\LeetCodeSolutions.csproj",
         "packagesPath": "C:\\Users\\cpier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cpier\\Dropbox\\My Files\\Programming Solutions\\LeetCode\\C#\\LeetCode Tests\\LeetCodeSolutions\\obj\\",
+        "outputPath": "C:\\Users\\cpier\\Source\\Repos\\Cpierswim\\C--LeetCode-solutions\\LeetCode Tests\\LeetCodeSolutions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
